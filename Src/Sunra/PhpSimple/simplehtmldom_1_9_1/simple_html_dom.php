@@ -1,4 +1,7 @@
 <?php
+
+namespace simplehtmldom_1_9_1;
+
 /**
  * Website: http://sourceforge.net/projects/simplehtmldom/
  * Additional projects: http://sourceforge.net/projects/debugobject/
